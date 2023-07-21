@@ -1,0 +1,10 @@
+.about{
+    background-color: bg-gradient-to-r from-slate-900 to-slate-700;
+    width: 100%;
+    padding: 200px 150px;
+    color: white;
+    /* background: rgb(7,79,83);
+background: linear-gradient(90deg, rgba(7,79,83,1) 5%, rgba(0,17,160,1) 81%, rgba(133,55,29,1) 120%); */
+
+
+}
